@@ -1,3 +1,3 @@
 # Sign
 
-Classes used / Sign created = ['Block', 'Clarify', 'Love', 'Oppose', 'Victory']
+Classes used / New sign created = ['Block', 'Clarify', 'Love', 'Oppose', 'Victory']
