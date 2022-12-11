@@ -1,5 +1,7 @@
 # Sign Language Words Recognition
 
+This project is a sign language alphabet recognizer using Python, Mediapie, openCV and tensorflow for training model, a convolutional neural network model (LSTM) for classification.
+
 # Dependencies:
 
 1. Tensorflow
