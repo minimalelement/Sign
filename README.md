@@ -1,3 +1,12 @@
-# Sign
+# Sign Language Words Recognition
 
-Classes used / New sign created = ['Block', 'Clarify', 'Love', 'Oppose', 'Victory']
+# Dependencies:
+
+1. Tensorflow
+2. OpenCV
+
+#Dataset:
+
+Custom dataset
+
+Classes used / New sign created = ['Happy', 'Peace','Power', 'Sad', 'Angry','BeQuiet','Positive','Negative','Home','Friend','Love','Fight']
